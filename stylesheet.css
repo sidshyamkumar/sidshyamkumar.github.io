@@ -70,3 +70,43 @@ footer a:hover {
     text-decoration: underline;
     color: #003268; /* Change to darker blue on hover */
 }
+
+/* Styles for Education */
+#education {
+    background-color: #e7f3fe; /* Light blue background */
+    border: 1px solid #007BFF; /* Blue border */
+    border-radius: 5px;
+    padding: 15px;  
+    margin-bottom: 20px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+}
+
+/* Styles for Experience */
+#experience {
+    background-color: #ffe0b2; /* Light orange background */
+    border: 1px solid #ff9800; /* Orange border */
+    border-radius: 5px;
+    padding: 15px;  
+    margin-bottom: 20px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+}
+
+/* Styles for Projects */
+#projects {
+    background-color: #d1c4e9; /* Light purple background */
+    border: 1px solid #673ab7; /* Purple border */
+    border-radius: 5px;
+    padding: 15px;  
+    margin-bottom: 20px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+}
+
+/* Styles for Skills */
+#skills {
+    background-color: #c8e6c9; /* Light green background */
+    border: 1px solid #4caf50; /* Green border */
+    border-radius: 5px;
+    padding: 15px;  
+    margin-bottom: 20px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+}
