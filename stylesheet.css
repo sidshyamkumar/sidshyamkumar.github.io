@@ -1,0 +1,70 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #333;
+}
+
+h2 {
+    font-size: 2em;
+    color: #007BFF; /* Bootstrap primary blue */
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: #555;
+    margin-top: 15px;
+}
+
+/* Section Styles */
+.section {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #444;
+}
+
+/* Image Styles */
+img {
+    border-radius: 50%; /* Circular image */
+    margin-top: 15px;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px 0;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer a {
+    color: #007BFF; /* Bootstrap primary blue */
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: #0056b3; /* Change to darker blue on hover */
+}
